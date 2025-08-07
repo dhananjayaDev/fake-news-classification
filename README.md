@@ -1,4 +1,4 @@
-# 📰 Fake News Classifier
+# Fake News Classifier
 
 ![Banner](fake news banner.png)
 
@@ -6,14 +6,14 @@ A modular, graph-based NLP app built with PyTorch and Streamlit to detect fake n
 
 ---
 
-## 🚀 Demo
+##  Demo
 
 ![App Screenshot](demo1.png)
 ![App Screenshot](demo2.png)
 
 ---
 
-## ✨ Features
+##  Features
 
 - GNN-powered classification using heterogeneous graphs
 - Streamlit UI for easy interaction
@@ -24,7 +24,7 @@ A modular, graph-based NLP app built with PyTorch and Streamlit to detect fake n
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - [PyTorch](https://pytorch.org/)
 - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
@@ -143,3 +143,4 @@ Expected: ❌ Fake
 ##  License
 
 This project is licensed under the MIT License.
+
