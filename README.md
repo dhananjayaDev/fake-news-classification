@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/dhananjayaDev/fake-news-classification/blob/master/fake%20news%20banner.png)
 
-A modular, graph-based NLP app built with PyTorch and Streamlit to detect fake news headlines. Designed to be recruiter-ready, with clean structure, intuitive UI, and accessible code.
+A modular, graph-based NLP app built with PyTorch and Streamlit to detect fake news headlines. Designed to be with clean structure, intuitive UI, and accessible code.
 
 ---
 
@@ -143,5 +143,6 @@ Expected: ❌ Fake
 ##  License
 
 This project is licensed under the MIT License.
+
 
 
